@@ -1,0 +1,25 @@
+{
+  "name": "array_manipulation",
+  "version": "0.0.1",
+  "description": "array manipulation collection",
+  "main": "index.js",
+	"type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amethyz6454/array_manipulation.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "Emilio Abalos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amethyz6454/array_manipulation/issues"
+  },
+  "homepage": "https://github.com/amethyz6454/array_manipulation#readme"
+}
